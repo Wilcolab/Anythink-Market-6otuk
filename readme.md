@@ -17,6 +17,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 3. Navigate to the root of the repository.
 4. Run `docker-compose up` to start Docker.
 
-* `localhost:3000/api/ping`
-* 'localhost:3001/'
-  
+- `localhost:3000/api/ping`
+- 'localhost:3001/'
