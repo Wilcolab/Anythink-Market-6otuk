@@ -16,6 +16,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 2. Make sure that the **Docker Application** is running in the background.
 3. Navigate to the root of the repository.
 4. Run `docker-compose up` to start Docker.
-  4a. `localhost:3000/api/ping`
-  4b. 'localhost:3001/'
+
+* `localhost:3000/api/ping`
+* 'localhost:3001/'
   
